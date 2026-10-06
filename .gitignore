@@ -1,0 +1,8 @@
+node_modules/
+__pycache__/
+*.pyc
+.env
+.env.*
+/gorsel-dogrulama/
+.DS_Store
+Thumbs.db
